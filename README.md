@@ -19,7 +19,7 @@ Plataforma e softwares necessários para rodar o projeto:
 Para baixar basta clicar dentro da pasta ProjetoTecBlog em code > download ZIP.
 Após isso descompartar o projeto. Com o mesmo descompactado dar um clique duplo na página idex.html (sendo assim possivel a visualização do projeto).
 O mesmo também pode ser aberto em alguma editor de sua preferência como Visual Studio Code ou Atom. 
-Basta abrir o editor e selecionar "open file" ou "open folder" e buscar o projeto no local que foi salvo em sua máquina.
+Basta abrir o editor e selecionar a opção "file" > "open file" ou "open folder" e buscar o projeto no local que foi salvo em sua máquina.
 
 ## Feito com
 
