@@ -3,6 +3,8 @@
 Projeto criado com intuito de aplicar conhecimentos básicos de HTML e CSS.
 Usando links, formatações, fotos e todas as funcionalidades mais comuns utilizadas em HTML e CSS. 
 
+![tecblog](https://i.imgur.com/TQ1giWY.png?1)
+
 ## Começando bem
 
 Essa é uma página web simula o formato de um blog de notícias com área de notícias, menu principal com links para outras páginas e ropapé.
